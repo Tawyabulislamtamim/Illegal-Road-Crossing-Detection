@@ -1,0 +1,7 @@
+names:
+- person
+nc: 1
+path: /content/drive/MyDrive/Machine_Learning/Dataset/YOLO_Dataset/multi_class_road_crossing_640_yolov8
+test: test/images
+train: train/images
+val: valid/images
